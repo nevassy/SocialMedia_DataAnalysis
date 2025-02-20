@@ -1,8 +1,11 @@
 # Clean and Analyze Social Media Usage Data
 ![Social-Media-PNG-Picture](https://github.com/user-attachments/assets/fc89db3e-2e98-4af1-ac88-06dcfc763d90)
 </p>
-## 📄 Project Scenario
 
+## 📄 Project Scenario
+This project aims to **predict the likelihood of a successful landing for the first stage of the Falcon 9 rocket.**
+
+The complete report can be found [here](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/Capstone%20Project.pdf).
 Suppose you work for a social media marketing company that specializes in promoting brands and products on a popular social media platform. Your team is responsible for analyzing the performance of different types of posts based on categories, such as health, family, food, etc. to help clients optimize their social media strategy and increase their reach and engagement. 
 They want you to use Python to automatically extract tweets posted from one or more categories, and to clean, analyze and visualize the data. The team will use your analysis to making data-driven recommendations to clients to improve their social media performance. This feature will help the marketing agency deliver tweets on time, within budget, and gain fast results.
 Project Objectives
